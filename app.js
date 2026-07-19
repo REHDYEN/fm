@@ -5,7 +5,7 @@ const stations = [
         frequency: "100.9 FM",
         city: "Bogotá",
         url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac",
-        logo: null,
+        logo: "https://www.google.com/s2/favicons?domain=caracol.com.co&sz=256",
         color: "text-yellow-400"
     },
     {
@@ -14,7 +14,7 @@ const stations = [
         frequency: "89.9 FM",
         city: "Nacional",
         url: "https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO_SC",
-        logo: null,
+        logo: "https://www.google.com/s2/favicons?domain=bluradio.com&sz=256",
         color: "text-blue-500"
     },
     {
@@ -23,7 +23,7 @@ const stations = [
         frequency: "105.9 FM",
         city: "Bogotá",
         url: "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTAAAC.aac",
-        logo: null,
+        logo: "https://www.google.com/s2/favicons?domain=olimpicastereo.com.co&sz=256",
         color: "text-blue-700"
     },
     {
@@ -32,7 +32,7 @@ const stations = [
         frequency: "97.9 FM",
         city: "Bogotá",
         url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC.aac",
-        logo: null,
+        logo: "https://www.google.com/s2/favicons?domain=radioacktiva.com&sz=256",
         color: "text-red-600"
     },
     {
@@ -41,7 +41,7 @@ const stations = [
         frequency: "99.9 FM",
         city: "Bogotá",
         url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC.aac",
-        logo: null,
+        logo: "https://www.google.com/s2/favicons?domain=wradio.com.co&sz=256",
         color: "text-purple-600"
     },
     {
@@ -50,7 +50,7 @@ const stations = [
         frequency: "103.9 FM",
         city: "Medellín",
         url: "https://tupanel.info:8000/stream",
-        logo: null,
+        logo: "https://www.google.com/s2/favicons?domain=laxmasmusica.com&sz=256",
         color: "text-white"
     },
     {
@@ -59,7 +59,7 @@ const stations = [
         frequency: "101.9 FM",
         city: "Bogotá",
         url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CANDELAESTEREO_SC",
-        logo: null,
+        logo: "https://www.google.com/s2/favicons?domain=candelaestereo.com&sz=256",
         color: "text-orange-500"
     },
     {
@@ -68,7 +68,7 @@ const stations = [
         frequency: "95.9 FM",
         city: "Bogotá",
         url: "https://shoutcast.rtvc.gov.co:8000/;",
-        logo: null,
+        logo: "https://www.google.com/s2/favicons?domain=radionacional.co&sz=256",
         color: "text-green-500"
     },
     {
@@ -77,7 +77,7 @@ const stations = [
         frequency: "107.9 FM",
         city: "Medellín",
         url: "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632c9d30aa9ace684913b853",
-        logo: null,
+        logo: "https://www.google.com/s2/favicons?domain=elsol.com.co&sz=256",
         color: "text-yellow-600"
     },
     {
@@ -86,7 +86,7 @@ const stations = [
         frequency: "102.9 FM",
         city: "Bogotá",
         url: "https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA_BOGOTAAAC.aac",
-        logo: null,
+        logo: "https://www.google.com/s2/favicons?domain=tropicanafm.com&sz=256",
         color: "text-yellow-400"
     }
 ];
