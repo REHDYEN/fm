@@ -4,7 +4,7 @@ const stations = [
         name: "Caracol Radio",
         frequency: "100.9 FM",
         city: "Bogotá",
-        url: "http://27323.live.streamtheworld.com:3690/CARACOL_RADIOAAC_SC",
+        url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac",
         logo: null,
         color: "text-yellow-400"
     },
@@ -13,7 +13,7 @@ const stations = [
         name: "Blu Radio",
         frequency: "89.9 FM",
         city: "Nacional",
-        url: "http://27433.live.streamtheworld.com:3690/BLURADIO_SC",
+        url: "https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO_SC",
         logo: null,
         color: "text-blue-500"
     },
@@ -40,7 +40,7 @@ const stations = [
         name: "W Radio",
         frequency: "99.9 FM",
         city: "Bogotá",
-        url: "http://23563.live.streamtheworld.com:3690/W_RADIOAAC_SC",
+        url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC.aac",
         logo: null,
         color: "text-purple-600"
     },
@@ -58,7 +58,7 @@ const stations = [
         name: "Candela Estéreo",
         frequency: "101.9 FM",
         city: "Bogotá",
-        url: "http://24403.live.streamtheworld.com:3690/CANDELAESTEREO_SC",
+        url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CANDELAESTEREO_SC",
         logo: null,
         color: "text-orange-500"
     },
@@ -67,7 +67,7 @@ const stations = [
         name: "Radio Nacional",
         frequency: "95.9 FM",
         city: "Bogotá",
-        url: "http://shoutcast.rtvc.gov.co:8000/;",
+        url: "https://shoutcast.rtvc.gov.co:8000/;",
         logo: null,
         color: "text-green-500"
     },
