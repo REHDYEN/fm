@@ -14,7 +14,7 @@ const stations = [
         frequency: "89.9 FM",
         city: "Nacional",
         url: "https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO_SC",
-        logo: "https://www.google.com/s2/favicons?domain=bluradio.com&sz=256",
+        logo: "https://caracol-brightspot.s3.us-west-2.amazonaws.com/27/8b/1eb7e61a4d6882ef6b6ded3476b5/blu-radio.png",
         color: "text-blue-500"
     },
     {
